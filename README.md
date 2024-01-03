@@ -14,7 +14,7 @@
 
 我的b站号：Melody_Zhang00
 
-GPT-4的API购买教程：
+GPT-4的API获取教程，这个教程在别人那获取是需要付费的，大家可以学习下：
 1）在下面网页中，点击API：
 <img width="1512" alt="截屏2024-01-03 23 19 16" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/a2b71a34-65d4-4188-8554-75c6c7142439">
 
