@@ -19,18 +19,23 @@
 
 GPT-4的API获取教程：
 1）在下面网页中，点击API：
+
 <img width="1512" alt="截屏2024-01-03 23 19 16" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/a2b71a34-65d4-4188-8554-75c6c7142439">
 
 2）在下面网页中，点击billing：
+
 <img width="1512" alt="截屏2024-01-03 23 20 58" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/3eb242de-5dc8-4551-8027-e9b07240bd6a">
 
 3）点击add payment details，点击individual：
+
 <img width="1512" alt="截屏2024-01-03 23 21 07" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/a7895918-4246-48f6-9c89-a286053cde21">
 
 4）填写支付信息，并且购买：
+
 <img width="1512" alt="截屏2024-01-03 23 21 49" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/881cd8de-15f8-4a6d-8e7d-69bca895f297">
 
 5）填好后，点击API keys，然后点击Create new secret key：
+
 <img width="1512" alt="截屏2024-01-03 23 23 44" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/0fb4293d-f67e-4d37-94d9-d6d648a7ab09">
 
 6）复制API key至插件，即可正常使用插件
