@@ -8,6 +8,7 @@
 
 我的知识星球：AI搅拌机世代，最近由于还在试运行，只能容纳20人，加入不了的朋友，可以加我微信
 ![141704296001_ pic](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/6e040e29-e556-4139-989f-2a275b96be08)
+
 我的微信：Melody-Christ
 
 我的小红书：Melody Zhang（小红书号：6364731594）
