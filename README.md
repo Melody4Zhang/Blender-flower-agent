@@ -30,6 +30,6 @@ GPT-4的API购买教程：
 5）填好后，点击API keys，然后点击Create new secret key：
 <img width="1512" alt="截屏2024-01-03 23 23 44" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/0fb4293d-f67e-4d37-94d9-d6d648a7ab09">
 
-6）复制API key至插件
+6）复制API key至插件，即可正常使用插件
 
 
