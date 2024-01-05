@@ -1,10 +1,10 @@
 这个插件是基于BlenderGPT插件的基础上进行修改，非常感谢这个插件的两位创作者，插件只适用于blender3.1之后的版本
 
-插件下载，点击code，如下面图片所示，然后再点击Download ZIP，然后解压缩，插件为里面Blender-flower-Agent.zip文件
+插件下载，点击code，如下面图片所示，然后再点击Download ZIP，然后解压缩，解压缩后，里面包含视频文件，read me txt文件，及Blender-flower-Agent.zip文件的文件
 
 <img width="1512" alt="截屏2024-01-05 00 37 01" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/3e2f3a10-a5a5-442c-8b14-2a8afb546451">
 
-我制作的插件安装使用流程，见主页的安装使用视频：（1.我在这里只用放演示视频即可；2.用markdown让文本结构清晰）
+我制作的插件安装使用流程，见主页的安装使用视频：（1.必须把演示视频，放到git-hub read me界面，否则下载的人会少很多，我在这里只用放演示视频即可；2.用markdown让文本结构清晰）
 
 注意：要取得好的使用效果，必须使用GPT-4的API，GPT-4的API与20美元每月的会员是两个系统
 
