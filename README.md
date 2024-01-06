@@ -13,7 +13,7 @@
 
 3. 解压缩下载的ZIP文件，里面包含视频文件、read me txt文件以及 Blender-flower-Agent.zip 文件。
 
-## 插件安装使用流程
+## 插件安装流程
 
 详细的安装和使用流程，可参考以下视频。
 
@@ -22,6 +22,13 @@
 
 
 https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/aa7b33ea-78f7-4fa8-b063-23111cae3821
+
+## 插件使用流程
+
+
+
+https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/5f10c14b-bf31-4055-a89a-43945ec7103f
+
 
 
 ## 更多资源
