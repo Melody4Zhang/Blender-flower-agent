@@ -1,53 +1,63 @@
-这个插件是基于BlenderGPT插件的基础上进行修改，非常感谢这个插件的两位创作者，插件只适用于blender3.1之后的版本
+# Blender-flower-agent 插件
 
-插件下载，点击code，如下面图片所示，然后再点击Download ZIP，然后解压缩，解压缩后，里面包含视频文件，read me txt文件，及Blender-flower-Agent.zip文件的文件
+这个插件是基于 BlenderGPT 插件的基础上进行修改，非常感谢这个插件的两位创作者。插件只适用于 Blender 3.1 之后的版本。
+
+## 插件下载
+
+1. 点击 "Code" 按钮，如下面图片所示：
 
 <img width="1512" alt="截屏2024-01-05 00 37 01" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/3e2f3a10-a5a5-442c-8b14-2a8afb546451">
 
-我制作的插件安装使用流程，见主页的安装使用视频：（1.必须把演示视频，放到git-hub read me界面，否则下载的人会少很多，我在这里只用放演示视频即可；2.用markdown让文本结构清晰）
 
-注意：要取得好的使用效果，必须使用GPT-4的API，GPT-4的API与20美元每月的会员是两个系统
+2. 然后点击 "Download ZIP"。
 
-更多GPT+Blender的资料，将会在我的知识星球陆续发布，欢迎大家进我的星球，一起拥抱AI时代：）
+3. 解压缩下载的ZIP文件，里面包含视频文件、read me txt文件以及 Blender-flower-Agent.zip 文件。
 
-我的知识星球：AI搅拌机世代，最近由于还在试运行，只能容纳20人，加入不了的朋友，可以加我微信
-![141704296001_ pic](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/6e040e29-e556-4139-989f-2a275b96be08)
+## 插件安装使用流程
 
-我的微信：Melody-Christ （请注明来意）
+详细的安装和使用流程，请参考主页的安装使用视频。
 
-我的小红书：Melody Zhang（小红书号：6364731594）
+注意：要取得好的使用效果，必须使用GPT-4的API。GPT-4的API与20美元每月的会员是两个系统。
 
-我的b站号：Melody_Zhang00
+## 更多资源
 
+更多关于GPT和Blender的资料将陆续发布在我的知识星球。欢迎大家进我的星球，一起拥抱AI时代：）
 
-
-不知道如何获取GPT-4的API Key的可以看下面教程：
-
-1）在下面网页中，点击API：
-
-<img width="1512" alt="截屏2024-01-03 23 19 16" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/a2b71a34-65d4-4188-8554-75c6c7142439">
+- [我的知识星球：AI搅拌机世代]
+- ![141704296001_ pic](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/6e040e29-e556-4139-989f-2a275b96be08)
 
 
-2）在下面网页中，点击billing：
+如果我的知识星球已满员，您可以加我微信以获取更多信息。
 
-<img width="1512" alt="截屏2024-01-03 23 20 58" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/3eb242de-5dc8-4551-8027-e9b07240bd6a">
+- 微信：Melody-Christ （请注明来意）
 
+我还在其他社交平台上分享内容：
 
-3）点击add payment details，点击individual：
+- 我的小红书：Melody Zhang
+- 我的b站号：Melody_Zhang00
 
-<img width="1512" alt="截屏2024-01-03 23 21 07" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/a7895918-4246-48f6-9c89-a286053cde21">
+## 如何获取GPT-4的API Key
 
+如果您不知道如何获取GPT-4的API Key，请按以下步骤操作：
 
-4）填写支付信息，并且购买：
+1. 在下面网页中，点击 "API"：
 
-<img width="1512" alt="截屏2024-01-03 23 21 49" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/881cd8de-15f8-4a6d-8e7d-69bca895f297">
+   ![获取API Key步骤1](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/a2b71a34-65d4-4188-8554-75c6c7142439)
 
+2. 在下面网页中，点击 "billing"：
 
-5）填好后，点击API keys，然后点击Create new secret key：
+   ![获取API Key步骤2](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/3eb242de-5dc8-4551-8027-e9b07240bd6a)
 
-<img width="1512" alt="截屏2024-01-03 23 23 44" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/0fb4293d-f67e-4d37-94d9-d6d648a7ab09">
+3. 点击 "add payment details"，然后点击 "individual"：
 
+   ![获取API Key步骤3](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/a7895918-4246-48f6-9c89-a286053cde21)
 
-6）复制API key至插件，即可正常使用插件
+4. 填写支付信息，并且购买：
 
+   ![获取API Key步骤4](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/881cd8de-15f8-4a6d-8e7d-69bca895f297)
 
+5. 填好后，点击 "API keys"，然后点击 "Create new secret key"：
+
+   ![获取API Key步骤5](https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/0fb4293d-f67e-4d37-94d9-d6d648a7ab09)
+
+6. 复制API key至插件，即可正常使用插件。
