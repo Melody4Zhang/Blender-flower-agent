@@ -15,9 +15,14 @@
 
 ## 插件安装使用流程
 
-详细的安装和使用流程，请参考主页的安装使用视频。
+详细的安装和使用流程，可参考以下视频。
 
 注意：要取得好的使用效果，必须使用GPT-4的API。GPT-4的API与20美元每月的会员是两个系统。
+
+
+
+https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/aa7b33ea-78f7-4fa8-b063-23111cae3821
+
 
 ## 更多资源
 
