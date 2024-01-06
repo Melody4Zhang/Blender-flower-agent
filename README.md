@@ -11,7 +11,7 @@
 
 2. 然后点击 "Download ZIP"。
 
-3. 解压缩下载的ZIP文件，里面包含视频文件、read me txt文件以及 Blender-flower-Agent.zip 文件。
+3. 解压缩下载的ZIP文件，里面包含视频文件、README.md文件以及 Blender-flower-Agent.zip 文件。
 
 ###  注意：解压缩后的 Blender-flower-Agent.zip才是要安装的zip文件
 
