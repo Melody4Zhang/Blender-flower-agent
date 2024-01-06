@@ -2,7 +2,7 @@
 
 这个插件是基于 BlenderGPT 插件的基础上进行修改，非常感谢这个插件的两位创作者。插件只适用于 Blender 3.1 之后的版本。
 
-下图为插件生成效果
+下图为插件生成的月季效果
 <img width="1512" alt="截屏2024-01-06 16 11 10" src="https://github.com/Melody4Zhang/Blender-flower-agent/assets/154543222/4624541a-bd22-41b4-9bd0-6ce0d66a5e2c">
 
 ## 插件下载
